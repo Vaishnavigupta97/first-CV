@@ -1,0 +1,44 @@
+#para1{
+    background-color: blue;
+    color: white;
+    width: 31%;
+}
+.section2{
+    float: none;
+}
+.div8{
+    text-align: center;
+    text-decoration: underline;
+}
+.class10{
+    width: 50%;
+    margin: -20px;
+    padding-left: 120px;
+}
+.class11{
+    /* background-color: yellow; */
+    float: right;
+    width: 50%;
+    margin: 0;
+} body{
+    height: 1000px;
+}
+.love{
+    height: 150px;
+    width: 30%;
+    margin: -150px;
+    padding-left: 150px;
+    padding-top: 150px;
+}
+.babu{
+    height: 30px;
+    width: 90%;
+    float: right;
+    margin: 0;
+}
+.life{
+    color: blue;
+    background-color: white;
+    width: 100%;
+
+}
